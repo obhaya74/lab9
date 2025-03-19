@@ -33,5 +33,19 @@
     "borrower": "Charlie",
     "dueDate": "2025-04-10",
     "category": "Fiction"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "borrower": "Charlie",
+    "dueDate": "2025-04-10",
+    "category": "Fiction"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "borrower": "Charlie",
+    "dueDate": "2025-04-10",
+    "category": "Fiction"
   }
 ]

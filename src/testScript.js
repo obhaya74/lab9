@@ -15,4 +15,3 @@ console.log("Science Books:", viewBorrowedBooks("category", "Science"));
 // Test viewBorrowedBooks by borrower
 console.log("Books borrowed by Alice:", viewBorrowedBooks("borrower", "Alice"));
 
-testScript.js
