@@ -1,0 +1,24 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "borrower": "Alice",
+      "dueDate": "2025-04-01",
+      "category": "Fiction"
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "borrower": "Bob",
+      "dueDate": "2025-04-05",
+      "category": "Science"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "borrower": "Charlie",
+      "dueDate": "2025-04-10",
+      "category": "Fiction"
+    }
+  ] 
+  
